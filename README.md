@@ -48,7 +48,5 @@ Once you have a complete database, do the following:
 ## Contents
 
 * Resources - contain CSV files
-* image of ERD
-* SQL file of table schemata
-* SQL file of queries
-* (Optional) Jupyter Notebook of bonus anlysis
+* EmployeeSQL - image of ERD, SQL file of table schemata, SQL file of queries, EmployeeSQL matplotlip file
+* images - (Optional) Jupyter Notebook of bonus anlysis, BonusBarChart, BonusHistogram
